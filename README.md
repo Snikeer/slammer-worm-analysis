@@ -173,7 +173,7 @@ ______________________________________________________________________
 
 
 
-More detailed description of the scripts   (optional)
+More detailed description of the scripts   (Optional for more interested readers)
 
 	
 	
