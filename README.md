@@ -1,19 +1,181 @@
-I advice to read the report first report/Slammer_2025_Report
 
-This file is intended as a short description/guide to the artifact scripts created during the Project and described in detail in the report: Slammer_2025_Report. 
-The dataset and the folder-structure is removed from this artifact as it belong to data owner, so only resulted scripts and report are remains. 
+# Slammer Worm: From Outbreak to Stagnation?
+
+**Bachelor Thesis in Cybersecurity – 2025**  
+*Alexander Danielsen, Noroff University College*
+
+This repository contains all scripts and visualizations developed for my Bachelor project analyzing long-term activity of the SQL Slammer worm using Internet Background Radiation (IBR) data from 2005 to 2024.
+
+📄 **Full report**: [`Slammer_2025_Report.pdf`](./report/Slammer_2025_Report.pdf)
+
+> ⚠️ The raw PCAP dataset is excluded due to ethical, legal, and size limitations. Only scripts, output files, and images are included.
+
+---
+
+## 🧪 Project Overview
+
+The goal of this project was to determine if the Slammer worm, despite being released in 2003, still generates detectable traffic nearly two decades later. This was achieved by:
+
+- Filtering UDP traffic targeting ports 1433 and 1434.
+- Detecting Slammer activity by size, checksum, and MD5 hash of payloads.
+- Visualizing temporal and geographical distribution of hits.
+- Verifying payloads against VirusTotal API.
+- Documenting trends, anomalies, and long-term persistence.
+
+---
+
+## 📂 Repository Structure
+
+```
+Slammer-Worm-Analysis/
+├── scripts/               # Core analysis scripts (filtering, splitting, counting)
+├── 1_timestamps/          # Timestamp conversion and traffic graphs
+├── 2_geolocation/         # IP enrichment and country/netblock stats
+├── 3_hashes/              # Payload hashing and VirusTotal lookups
+├── report/                # Full PDF thesis report
+├── README.md              # This file
+└── .gitignore             # (Optional) excludes temp/data files
+```
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Languages:** Python, Bash
+- **Libraries:** `pandas`, `matplotlib`, `hashlib`, `prettytable`
+- **Network tools:** `tcpdump`, `tshark`, `capinfos`, `editcap`, `netcat`
+- **External APIs:** VirusTotal, Team Cymru WHOIS
+
+---
+
+## 🧾 Scripts Overview
+
+### 🔹 1. `monthly_spliter.sh`
+Splits a large yearly `.cap` file into monthly segments. Uses timestamp filtering and removes empty months.
+
+### 🔹 2. `generate_table.py`
+Summarizes PCAP files with start/end time, packet count, and file size. Outputs PrettyTable and LaTeX tables.
+
+### 🔹 3. `filter_split_review.py`
+Filters yearly `.cap` file by ports 1433/1434 and then splits it into months. Includes table generation.
+
+### 🔹 4. `hashcheker.py` / `cheksum_finder.py`
+Identifies Slammer-like payloads:
+- `hashcheker.py`: MD5 hash detection
+- `cheksum_finder.py`: 16-bit checksum detection
+
+### 🔹 5. `count_376_packets.sh` / `count_376_packets2.sh`
+Counts packets of length 418 bytes (Slammer size). Second version supports multiple directories and outputs CSV.
+
+### 🔹 6. `grafer2.py` / `grafer3.py`
+Reads CSV files and generates:
+- Line charts (grafer2)
+- Bar charts (grafer3)
+Used to visualize Slammer activity over time.
+
+### 🔹 7. `1_timestamps/converter_of_time.py`
+Converts Unix timestamps to human-readable format via pipe from `tshark` output.
+
+### 🔹 8. `1_timestamps/making_graphs.py`
+Generates daily and monthly Slammer activity charts from CSV timestamp logs.
+
+### 🔹 9. `2_geolocation/geolocator.sh`
+Extracts IPs from timestamped CSVs and queries Cymru WHOIS for ASN and country info.
+
+### 🔹 10. `2_geolocation/time_saver.py`
+Parses WHOIS enrichment output and prints LaTeX tables for:
+- Top countries
+- Top /16 netblocks
+
+### 🔹 11. `3_hashes/hash_and_sizhe_chelcker.py`
+Hashes all UDP payloads in PCAP files and records their size in a CSV.
+
+### 🔹 12. `3_hashes/virustotal_hashchecker.py`
+Queries VirusTotal API for metadata and detection stats on suspicious hashes.
+
+---
+
+## 🚀 Example Usage
+
+```bash
+# Split a full-year PCAP into monthly segments
+bash scripts/monthly_spliter.sh 2005-total.cap 2005
+
+# Generate traffic summary table
+python3 scripts/generate_table.py ./2005-port1433-1434/
+
+# Filter + split + generate stats
+python3 scripts/filter_split_review.py ./2005-port1433-1434/
+
+# Detect Slammer via hash
+python3 scripts/hashcheker.py 2005-08-port1433-1434.cap
+
+# Count 418-byte packets across multiple directories
+bash scripts/count_376_packets2.sh ./year_dirs > slammer_count.csv
+
+# Plot graphs
+python3 scripts/grafer3.py slammer_count.csv
+
+# Convert timestamps
+tshark ... | python3 1_timestamps/converter_of_time.py 2005
+
+# Geolocation
+bash 2_geolocation/geolocator.sh ../1_timestamps/timestamp_slammer_2020_data.csv
+
+# VirusTotal lookup
+python3 3_hashes/virustotal_hashchecker.py
+```
+
+---
+
+## 📈 Results Preview
+
+You can view example charts, CSVs, and summaries inside:
+
+- `1_timestamps/` → time-based traffic graphs
+- `2_geolocation/` → enriched IP stats
+- `3_hashes/` → hash metadata and VirusTotal lookups
+
+---
+
+## 📌 Notes
+
+- Scripts assume a specific filename and folder pattern like:  
+  `2005-port1433-1434/2005-08-port1433-1434.cap`  
+  Adjust paths as needed.
+- Most tools expect Bash, Python 3.8+, and Wireshark CLI tools (`tshark`, `capinfos`, etc.) installed.
+- For VirusTotal API, you'll need to generate a free key and insert it in `virustotal_hashchecker.py`.
+
+---
+
+## 📫 Contact
+
+Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/alexander-danielsen-b13479157)if you're interested in the project, have questions, or want to collaborate.
+
+---
+
+## 📄 License
+
+This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code.
 
 
 
-0. Some of the scripts are tuned in or hardcoded to specific manualy penamed filename/foldersname and patternes in the filename such as this: 
+______________________________________________________________________
 
-	/2005-port1433-1434/2005-11-port1433-1434.cap
-	/2005-port1433-1434/2005-12-port1433-1434.cap
-	or
-	/2005-port1433-1434/2005-total
-	/2005-port1433-1434/2005-total_filtered_ports_1433-1434
 
-	This can be easyly be adjusted in ech scrip to make it feet the new purpus. 
+
+
+
+
+
+
+
+
+
+
+
+More detailed description of the scripts   (optional)
+
 	
 	
 1. /script/monthly_spliter.sh
