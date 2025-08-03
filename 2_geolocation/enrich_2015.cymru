@@ -1,0 +1,22 @@
+Bulk mode; whois.cymru.com [2025-03-12 22:29:00 +0000]
+7018    | 107.209.158.21   | 107.208.0.0/12      | US | arin     | 2012-04-25 | ATT-INTERNET4, US
+4134    | 124.114.229.70   | 124.114.0.0/16      | CN | apnic    | 2006-03-31 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+8267    | 149.156.82.102   | 149.156.0.0/16      | PL | ripencc  | 1991-05-03 | CYFRONET-AS Metropolitan Area Network Autonomous System, PL
+10197   | 168.131.228.150  | 168.131.0.0/16      | KR | apnic    | 1994-04-25 | CNU-AS-KR Chonnam National University, KR
+10197   | 168.131.25.42    | 168.131.0.0/16      | KR | apnic    | 1994-04-25 | CNU-AS-KR Chonnam National University, KR
+14080   | 190.85.77.82     | 190.85.64.0/19      | CO | lacnic   | 2010-03-11 | Telmex Colombia S.A., CO
+NA      | 192.33.168.11    | NA                  | US | arin     | 2024-06-26 | NA
+7303    | 200.49.157.246   | 200.49.144.0/20     | AR | lacnic   | 2000-06-30 | Telecom Argentina S.A., AR
+4134    | 202.103.220.101  | 202.103.192.0/18    | CN | apnic    | 1998-08-17 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4538    | 202.117.122.28   | 202.117.112.0/20    | CN | apnic    | 1995-09-21 | ERX-CERNET-BKB China Education and Research Network Center, CN
+17426   | 203.115.116.187  | 203.115.116.0/24    | IN | apnic    | 2000-06-30 | PRIMENET-AS-AP Primesoftex Ltd, IN
+17787   | 203.215.172.12   | 203.215.172.0/24    | PK | apnic    | 2001-05-04 | PSEB-AS-PK Pakistan Software Export Board, PK
+NA      | 203.215.38.244   | NA                  | AF | apnic    | 2006-04-04 | NA
+9808    | 211.139.94.46    | 211.139.80.0/20     | CN | apnic    | 2000-08-18 | CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
+7922    | 50.206.187.162   | 50.128.0.0/9        | US | arin     | 2010-10-21 | COMCAST-7922, US
+4134    | 61.178.133.77    | 61.178.0.0/16       | CN | apnic    | 2000-11-16 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 61.178.9.56      | 61.178.0.0/16       | CN | apnic    | 2000-11-16 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+NA      | 61.235.46.146    | NA                  | CN | apnic    | 2001-01-19 | NA
+7029    | 66.251.67.77     | 66.251.0.0/17       | US | arin     | 2003-12-23 | WINDSTREAM, US
+3257    | 68.166.154.12    | 68.164.0.0/14       | US | arin     | 2002-11-12 | GTT-BACKBONE GTT, US
+8342    | 81.176.67.100    | 81.176.0.0/16       | RU | ripencc  | 2003-01-15 | RTCOMM-AS, RU

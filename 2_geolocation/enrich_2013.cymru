@@ -1,0 +1,584 @@
+Bulk mode; whois.cymru.com [2025-03-12 22:29:00 +0000]
+3462    | 1.165.254.123    | 1.165.0.0/16        | TW | apnic    | 2010-05-05 | HINET Data Communication Business Group, TW
+37457   | 105.229.122.66   | 105.229.0.0/16      | ZA | afrinic  | 2012-11-16 | Telkom-Internet, ZA
+7018    | 107.217.4.133    | 107.208.0.0/12      | US | arin     | 2012-04-25 | ATT-INTERNET4, US
+15557   | 109.2.212.18     | 109.0.0.0/11        | FR | ripencc  | 2009-08-13 | LDCOMNET --- I3Dnet ---, FR
+12389   | 109.203.203.93   | 109.203.192.0/19    | RU | ripencc  | 2010-03-31 | ROSTELECOM-AS, RU
+12389   | 109.225.18.95    | 109.225.18.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.2.108    | 109.225.2.0/24      | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.21.234   | 109.225.21.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.21.30    | 109.225.21.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.21.48    | 109.225.21.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.22.114   | 109.225.22.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.24.65    | 109.225.24.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.27.11    | 109.225.27.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.27.231   | 109.225.27.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.27.98    | 109.225.27.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.3.216    | 109.225.3.0/24      | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.3.27     | 109.225.3.0/24      | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.30.68    | 109.225.30.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.31.231   | 109.225.31.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.35.26    | 109.225.35.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.36.16    | 109.225.36.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.36.31    | 109.225.36.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.36.99    | 109.225.36.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.37.13    | 109.225.37.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.37.15    | 109.225.37.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.37.176   | 109.225.37.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.4.156    | 109.225.4.0/24      | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.44.130   | 109.225.44.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.44.172   | 109.225.44.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.44.206   | 109.225.44.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.46.131   | 109.225.46.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.46.136   | 109.225.46.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.46.186   | 109.225.46.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.46.192   | 109.225.46.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.46.199   | 109.225.46.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.46.230   | 109.225.46.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.5.15     | 109.225.5.0/24      | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.54.228   | 109.225.54.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.54.4     | 109.225.54.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.55.11    | 109.225.55.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.55.191   | 109.225.55.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.55.51    | 109.225.55.0/24     | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12389   | 109.225.7.50     | 109.225.7.0/24      | RU | ripencc  | 2010-01-18 | ROSTELECOM-AS, RU
+12392   | 109.88.19.200    | 109.88.16.0/20      | BE | ripencc  | 2009-09-01 | ASVOO VOO S.A., BE
+7713    | 110.137.185.18   | 110.137.184.0/21    | ID | apnic    | 2009-04-20 | TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
+4134    | 110.152.168.173  | 110.152.0.0/14      | CN | apnic    | 2009-04-21 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 110.152.191.26   | 110.152.0.0/14      | CN | apnic    | 2009-04-21 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 110.152.43.204   | 110.152.0.0/14      | CN | apnic    | 2009-04-21 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 110.152.45.109   | 110.152.0.0/14      | CN | apnic    | 2009-04-21 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 110.154.51.62    | 110.152.0.0/14      | CN | apnic    | 2009-04-21 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+140553  | 110.154.66.171   | 110.154.64.0/20     | CN | apnic    | 2009-04-21 | CHINATELECOM-XINJIANG-SHENGJI-5G-NETWORK CHINATELECOM XINJIANG province Shengji 5G network, CN
+140553  | 110.154.73.252   | 110.154.64.0/20     | CN | apnic    | 2009-04-21 | CHINATELECOM-XINJIANG-SHENGJI-5G-NETWORK CHINATELECOM XINJIANG province Shengji 5G network, CN
+24547   | 111.11.93.107    | 111.11.92.0/22      | CN | apnic    | 2009-05-06 | CMNET-V4HEBEI-AS-AP Hebei Mobile Communication Company Limited, CN
+4134    | 111.172.13.221   | 111.172.0.0/14      | CN | apnic    | 2009-05-22 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 111.172.14.195   | 111.172.0.0/14      | CN | apnic    | 2009-05-22 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 111.173.207.106  | 111.172.0.0/14      | CN | apnic    | 2009-05-22 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 111.173.236.131  | 111.172.0.0/14      | CN | apnic    | 2009-05-22 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+56047   | 111.22.170.178   | 111.22.168.0/22     | CN | apnic    | 2009-05-06 | CMNET-HUNAN-AP China Mobile communications corporation, CN
+3462    | 111.252.248.116  | 111.252.0.0/16      | TW | apnic    | 2009-07-23 | HINET Data Communication Business Group, TW
+3462    | 111.252.249.15   | 111.252.0.0/16      | TW | apnic    | 2009-07-23 | HINET Data Communication Business Group, TW
+3462    | 111.252.249.217  | 111.252.0.0/16      | TW | apnic    | 2009-07-23 | HINET Data Communication Business Group, TW
+3462    | 111.252.45.139   | 111.252.0.0/16      | TW | apnic    | 2009-07-23 | HINET Data Communication Business Group, TW
+3462    | 111.253.108.149  | 111.253.0.0/16      | TW | apnic    | 2009-07-23 | HINET Data Communication Business Group, TW
+3462    | 111.253.117.119  | 111.253.0.0/16      | TW | apnic    | 2009-07-23 | HINET Data Communication Business Group, TW
+3462    | 111.253.123.3    | 111.253.0.0/16      | TW | apnic    | 2009-07-23 | HINET Data Communication Business Group, TW
+3462    | 111.253.123.57   | 111.253.0.0/16      | TW | apnic    | 2009-07-23 | HINET Data Communication Business Group, TW
+3462    | 111.253.139.120  | 111.253.0.0/16      | TW | apnic    | 2009-07-23 | HINET Data Communication Business Group, TW
+3462    | 111.253.140.85   | 111.253.0.0/16      | TW | apnic    | 2009-07-23 | HINET Data Communication Business Group, TW
+3462    | 111.253.142.22   | 111.253.0.0/16      | TW | apnic    | 2009-07-23 | HINET Data Communication Business Group, TW
+3462    | 111.253.143.182  | 111.253.0.0/16      | TW | apnic    | 2009-07-23 | HINET Data Communication Business Group, TW
+3462    | 111.254.124.38   | 111.254.0.0/16      | TW | apnic    | 2009-07-23 | HINET Data Communication Business Group, TW
+3462    | 111.254.140.147  | 111.254.0.0/16      | TW | apnic    | 2009-07-23 | HINET Data Communication Business Group, TW
+3462    | 111.255.182.76   | 111.255.0.0/16      | TW | apnic    | 2009-07-23 | HINET Data Communication Business Group, TW
+3462    | 111.255.191.50   | 111.255.0.0/16      | TW | apnic    | 2009-07-23 | HINET Data Communication Business Group, TW
+9808    | 111.6.174.180    | 111.6.172.0/22      | CN | apnic    | 2009-05-06 | CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
+4780    | 112.105.85.216   | 112.105.64.0/19     | TW | apnic    | 2009-01-13 | SEEDNET Digital United Inc., TW
+4780    | 112.105.89.3     | 112.105.64.0/19     | TW | apnic    | 2009-01-13 | SEEDNET Digital United Inc., TW
+45899   | 113.161.204.88   | 113.161.200.0/21    | VN | apnic    | 2008-11-04 | VNPT-AS-VN VNPT Corp, VN
+17506   | 113.43.190.39    | 113.40.0.0/14       | JP | apnic    | 2008-10-15 | UCOM ARTERIA Networks Corporation, JP
+23944   | 114.108.224.150  | 114.108.224.0/22    | PH | apnic    | 2008-05-21 | SKYBB-AS-AP SKYBroadband SKYCable Corporation, PH
+3462    | 114.27.53.128    | 114.27.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.33.249.47    | 114.33.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.38.32.85     | 114.38.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.39.196.108   | 114.39.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.39.197.167   | 114.39.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.40.100.221   | 114.40.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.40.101.15    | 114.40.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.40.103.109   | 114.40.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.40.103.246   | 114.40.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.40.70.138    | 114.40.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.40.70.15     | 114.40.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.40.70.88     | 114.40.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.40.76.206    | 114.40.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.40.93.108    | 114.40.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.40.96.70     | 114.40.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.40.98.32     | 114.40.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.46.181.129   | 114.46.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.46.181.225   | 114.46.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.46.181.72    | 114.46.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+3462    | 114.47.87.131    | 114.47.0.0/16       | TW | apnic    | 2008-04-18 | HINET Data Communication Business Group, TW
+17676   | 114.51.41.241    | 114.48.0.0/14       | JP | apnic    | 2008-04-22 | GIGAINFRA SoftBank Corp., JP
+4812    | 114.88.168.132   | 114.88.128.0/17     | CN | apnic    | 2008-05-14 | CHINANET-SH-AP China Telecom Group, CN
+17820   | 115.160.227.84   | 115.160.224.0/21    | IN | apnic    | 2008-08-25 | DIL-AP DIRECT INTERNET LTD., IN
+55836   | 115.241.14.170   | 115.241.0.0/17      | IN | apnic    | 2008-09-08 | RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
+55836   | 115.242.133.60   | 115.242.132.0/22    | IN | apnic    | 2008-09-08 | RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
+55836   | 115.242.224.102  | 115.242.224.0/23    | IN | apnic    | 2008-09-08 | RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
+55836   | 115.242.255.57   | 115.242.254.0/23    | IN | apnic    | 2008-09-08 | RELIANCEJIO-IN Reliance Jio Infocomm Limited, IN
+18101   | 115.249.185.172  | 115.249.0.0/16      | IN | apnic    | 2008-09-08 | RELIANCE-COMMUNICATIONS-IN Reliance Communications Ltd.DAKC MUMBAI, IN
+18101   | 115.249.203.236  | 115.249.0.0/16      | IN | apnic    | 2008-09-08 | RELIANCE-COMMUNICATIONS-IN Reliance Communications Ltd.DAKC MUMBAI, IN
+38794   | 115.31.183.89    | 115.31.183.0/24     | TH | apnic    | 2008-07-09 | UIH-BBB-AS-AP UIH, TH
+4812    | 116.224.148.38   | 116.224.128.0/17    | CN | apnic    | 2007-04-04 | CHINANET-SH-AP China Telecom Group, CN
+4812    | 116.224.148.85   | 116.224.128.0/17    | CN | apnic    | 2007-04-04 | CHINANET-SH-AP China Telecom Group, CN
+4812    | 116.224.151.41   | 116.224.128.0/17    | CN | apnic    | 2007-04-04 | CHINANET-SH-AP China Telecom Group, CN
+4812    | 116.236.146.206  | 116.236.0.0/16      | CN | apnic    | 2007-04-04 | CHINANET-SH-AP China Telecom Group, CN
+4812    | 116.238.25.145   | 116.238.0.0/16      | CN | apnic    | 2007-04-04 | CHINANET-SH-AP China Telecom Group, CN
+9808    | 117.170.223.91   | 117.170.216.0/21    | CN | apnic    | 2007-07-17 | CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
+9808    | 117.170.226.232  | 117.170.128.0/17    | CN | apnic    | 2007-07-17 | CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
+9808    | 117.171.56.212   | 117.171.0.0/17      | CN | apnic    | 2007-07-17 | CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
+4788    | 118.101.51.104   | 118.101.0.0/18      | MY | apnic    | 2007-08-30 | TTSSB-MY TM TECHNOLOGY SERVICES SDN. BHD., MY
+9304    | 118.142.60.30    | 118.142.32.0/19     | HK | apnic    | 2007-09-19 | HUTCHISON-AS-AP HGC Global Communications Limited, HK
+3462    | 118.163.166.67   | 118.163.0.0/16      | TW | apnic    | 2007-10-04 | HINET Data Communication Business Group, TW
+3462    | 118.163.246.37   | 118.163.0.0/16      | TW | apnic    | 2007-10-04 | HINET Data Communication Business Group, TW
+4134    | 118.181.234.144  | 118.180.0.0/14      | CN | apnic    | 2007-10-17 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4538    | 118.203.96.6     | 118.203.96.0/22     | CN | apnic    | 2007-10-24 | ERX-CERNET-BKB China Education and Research Network Center, CN
+4538    | 118.203.96.8     | 118.203.96.0/22     | CN | apnic    | 2007-10-24 | ERX-CERNET-BKB China Education and Research Network Center, CN
+4134    | 119.121.190.54   | 119.120.0.0/13      | CN | apnic    | 2008-02-07 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+7018    | 12.207.195.98    | 12.128.0.0/9        | US | arin     | 1983-08-23 | ATT-INTERNET4, US
+7018    | 12.69.240.6      | 12.0.0.0/9          | US | arin     | 1983-08-23 | ATT-INTERNET4, US
+7018    | 12.69.241.153    | 12.0.0.0/9          | US | arin     | 1983-08-23 | ATT-INTERNET4, US
+4134    | 120.71.216.155   | 120.68.0.0/14       | CN | apnic    | 2008-03-20 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 120.71.216.16    | 120.68.0.0/14       | CN | apnic    | 2008-03-20 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4755    | 121.242.227.179  | 121.242.224.0/22    | IN | apnic    | 2006-08-14 | TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN
+6648    | 121.97.122.21    | 121.97.112.0/20     | PH | apnic    | 2006-07-20 | BAYAN-TELECOMMUNICATIONS Bayan Telecommunications, Inc., PH
+3462    | 122.117.233.118  | 122.117.0.0/16      | TW | apnic    | 2006-07-31 | HINET Data Communication Business Group, TW
+3462    | 122.121.169.216  | 122.121.0.0/16      | TW | apnic    | 2006-07-31 | HINET Data Communication Business Group, TW
+3462    | 122.121.174.47   | 122.121.0.0/16      | TW | apnic    | 2006-07-31 | HINET Data Communication Business Group, TW
+24560   | 122.168.196.23   | 122.168.196.0/24    | IN | apnic    | 2006-12-19 | AIRTELBROADBAND-AS-AP Bharti Airtel Ltd., Telemedia Services, IN
+4538    | 122.205.4.198    | 122.205.4.0/22      | CN | apnic    | 2006-11-15 | ERX-CERNET-BKB China Education and Research Network Center, CN
+24138   | 122.70.135.218   | 122.70.128.0/21     | CN | apnic    | 2006-11-03 | CTTNET China TieTong Telecommunications Corporation, CN
+NA      | 122.82.152.129   | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 122.82.152.132   | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 122.82.153.123   | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 122.82.153.63    | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 122.82.154.112   | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 122.82.154.119   | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 122.82.154.227   | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 122.82.154.94    | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 122.82.156.7     | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 122.82.157.40    | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 122.92.0.73      | NA                  | CN | apnic    | 2006-11-03 | NA
+134762  | 123.185.143.128  | 123.185.128.0/18    | CN | apnic    | 2007-03-01 | CHINANET-LIAONING-DALIAN-MAN CHINANET Liaoning province Dalian MAN network, CN
+134762  | 123.185.143.50   | 123.185.128.0/18    | CN | apnic    | 2007-03-01 | CHINANET-LIAONING-DALIAN-MAN CHINANET Liaoning province Dalian MAN network, CN
+NA      | 123.85.250.187   | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 123.85.250.209   | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 123.85.250.237   | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 123.85.250.9     | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 123.85.251.174   | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 123.85.251.225   | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 123.85.252.169   | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 123.85.252.241   | NA                  | CN | apnic    | 2006-11-03 | NA
+NA      | 123.85.252.81    | NA                  | CN | apnic    | 2006-11-03 | NA
+4134    | 124.114.150.106  | 124.114.0.0/16      | CN | apnic    | 2006-03-31 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 124.117.149.49   | 124.117.0.0/16      | CN | apnic    | 2006-04-06 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 124.118.37.199   | 124.118.0.0/15      | CN | apnic    | 2006-04-06 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4788    | 124.13.1.247     | 124.13.0.0/18       | MY | apnic    | 2007-01-09 | TTSSB-MY TM TECHNOLOGY SERVICES SDN. BHD., MY
+9824    | 125.15.10.237    | 125.15.0.0/17       | JP | apnic    | 2005-07-18 | JTCL-JP-AS JCOM Co., Ltd., JP
+4713    | 125.202.218.137  | 125.200.0.0/13      | JP | apnic    | 2005-09-23 | OCN NTT Communications Corporation, JP
+4538    | 125.223.158.13   | 125.223.144.0/20    | CN | apnic    | 2005-10-21 | ERX-CERNET-BKB China Education and Research Network Center, CN
+3462    | 125.230.208.230  | 125.230.0.0/16      | TW | apnic    | 2005-10-18 | HINET Data Communication Business Group, TW
+4837    | 125.39.26.142    | 125.36.0.0/14       | CN | apnic    | 2005-12-30 | CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
+4134    | 125.74.75.200    | 125.74.0.0/15       | CN | apnic    | 2005-12-02 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 125.74.75.236    | 125.74.0.0/15       | CN | apnic    | 2005-12-02 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 125.74.90.29     | 125.74.0.0/15       | CN | apnic    | 2005-12-02 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 125.76.34.33     | 125.76.0.0/17       | CN | apnic    | 2005-12-02 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 125.76.45.51     | 125.76.0.0/17       | CN | apnic    | 2005-12-02 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+16      | 128.3.62.108     | 128.3.0.0/16        | US | arin     | 1984-04-17 | LBL, US
+3216    | 128.75.20.61     | 128.75.0.0/18       | RU | ripencc  | 2011-11-22 | SOVAM-AS, RU
+3216    | 128.75.62.38     | 128.75.0.0/18       | RU | ripencc  | 2011-11-22 | SOVAM-AS, RU
+8466    | 139.179.40.10    | 139.179.0.0/16      | TR | ripencc  | 1990-03-26 | BILKENT, TR
+18422   | 140.96.176.50    | 140.96.176.0/22     | TW | apnic    | 1990-04-12 | ITRINET-AS-TW Industrial Technology Research Institute, TW
+18422   | 140.96.60.65     | 140.96.32.0/19      | TW | apnic    | 1990-04-12 | ITRINET-AS-TW Industrial Technology Research Institute, TW
+855     | 142.176.33.173   | 142.176.32.0/21     | CA | arin     | 1992-08-26 | CANET-ASN-4, CA
+11172   | 148.244.137.4    | 148.244.137.0/24    | MX | lacnic   | 1999-04-26 | Alestra, S. de R.L. de C.V., MX
+NA      | 151.237.8.136    | NA                  | GB | ripencc  | 2012-08-16 | NA
+NA      | 151.237.9.131    | NA                  | GB | ripencc  | 2012-08-16 | NA
+NA      | 151.237.9.201    | NA                  | GB | ripencc  | 2012-08-16 | NA
+NA      | 151.237.9.228    | NA                  | GB | ripencc  | 2012-08-16 | NA
+NA      | 151.237.9.76     | NA                  | GB | ripencc  | 2012-08-16 | NA
+21612   | 157.86.152.36    | 157.86.128.0/18     | BR | lacnic   | 1991-12-16 | FUNDACAO INSTITUTO OSWALDO CRUZ, BR
+21612   | 157.86.8.22      | 157.86.0.0/18       | BR | lacnic   | 1991-12-16 | FUNDACAO INSTITUTO OSWALDO CRUZ, BR
+1659    | 163.22.146.29    | 163.16.0.0/13       | TW | apnic    | 1992-07-06 | ERX-TANET-ASN1 Taiwan Academic Network TANet Information Center, TW
+27651   | 164.77.213.91    | 164.77.128.0/17     | CL | lacnic   | 1992-12-23 | ENTEL CHILE S.A., CL
+11426   | 174.110.137.217  | 174.108.0.0/14      | US | arin     | 2009-02-26 | TWC-11426-CAROLINAS, US
+7922    | 174.57.109.110   | 174.48.0.0/12       | US | arin     | 2008-11-18 | COMCAST-7922, US
+7922    | 174.59.235.181   | 174.48.0.0/12       | US | arin     | 2008-11-18 | COMCAST-7922, US
+7922    | 174.60.165.172   | 174.48.0.0/12       | US | arin     | 2008-11-18 | COMCAST-7922, US
+4788    | 175.136.243.70   | 175.136.192.0/18    | MY | apnic    | 2010-01-08 | TTSSB-MY TM TECHNOLOGY SERVICES SDN. BHD., MY
+8167    | 177.0.211.4      | 177.0.192.0/18      | BR | lacnic   | 2010-11-04 | V tal, BR
+18881   | 177.132.19.222   | 177.132.16.0/20     | BR | lacnic   | 2012-01-30 | TELEFONICA BRASIL S.A, BR
+18881   | 177.132.19.45    | 177.132.16.0/20     | BR | lacnic   | 2012-01-30 | TELEFONICA BRASIL S.A, BR
+18881   | 177.16.116.34    | 177.16.112.0/20     | BR | lacnic   | 2010-12-07 | TELEFONICA BRASIL S.A, BR
+18881   | 177.16.210.144   | 177.16.208.0/20     | BR | lacnic   | 2010-12-07 | TELEFONICA BRASIL S.A, BR
+18881   | 177.16.211.69    | 177.16.208.0/20     | BR | lacnic   | 2010-12-07 | TELEFONICA BRASIL S.A, BR
+18881   | 177.40.120.149   | 177.40.112.0/20     | BR | lacnic   | 2011-03-02 | TELEFONICA BRASIL S.A, BR
+18881   | 177.40.122.17    | 177.40.112.0/20     | BR | lacnic   | 2011-03-02 | TELEFONICA BRASIL S.A, BR
+18881   | 177.96.98.137    | 177.96.96.0/19      | BR | lacnic   | 2011-09-22 | TELEFONICA BRASIL S.A, BR
+18881   | 177.96.98.76     | 177.96.96.0/19      | BR | lacnic   | 2011-09-22 | TELEFONICA BRASIL S.A, BR
+13188   | 178.150.161.176  | 178.150.161.0/24    | UA | ripencc  | 2010-04-15 | TRIOLAN, UA
+47531   | 178.213.39.72    | 178.213.32.0/21     | RU | ripencc  | 2010-09-14 | GORPTUS-AS, RU
+16276   | 178.33.182.116   | 178.32.0.0/15       | FR | ripencc  | 2010-01-19 | OVH, FR
+133296  | 180.149.242.100  | 180.149.242.0/24    | IN | apnic    | 2009-10-09 | WEBWERKS-AS-IN Web Werks India Pvt. Ltd., IN
+133296  | 180.149.244.97   | 180.149.244.0/24    | IN | apnic    | 2009-10-09 | WEBWERKS-AS-IN Web Werks India Pvt. Ltd., IN
+4812    | 180.171.236.38   | 180.171.0.0/16      | CN | apnic    | 2009-08-21 | CHINANET-SH-AP China Telecom Group, CN
+4812    | 180.173.88.164   | 180.168.0.0/13      | CN | apnic    | 2009-08-21 | CHINANET-SH-AP China Telecom Group, CN
+4812    | 180.175.121.87   | 180.175.0.0/16      | CN | apnic    | 2009-08-21 | CHINANET-SH-AP China Telecom Group, CN
+4812    | 180.175.124.166  | 180.175.0.0/16      | CN | apnic    | 2009-08-21 | CHINANET-SH-AP China Telecom Group, CN
+4812    | 180.175.70.189   | 180.175.0.0/16      | CN | apnic    | 2009-08-21 | CHINANET-SH-AP China Telecom Group, CN
+4812    | 180.175.71.20    | 180.175.0.0/16      | CN | apnic    | 2009-08-21 | CHINANET-SH-AP China Telecom Group, CN
+27984   | 181.16.70.27     | 181.16.64.0/18      | AR | lacnic   | 2012-04-30 | Ver Tv S.A., AR
+7303    | 181.164.129.242  | 181.164.0.0/15      | AR | lacnic   | 2011-12-28 | Telecom Argentina S.A., AR
+17809   | 182.155.48.4     | 182.155.32.0/19     | TW | apnic    | 2011-01-17 | VEETIME-TW-AP VEE TIME CORP., TW
+23944   | 182.18.231.35    | 182.18.228.0/22     | PH | apnic    | 2010-02-12 | SKYBB-AS-AP SKYBroadband SKYCable Corporation, PH
+17557   | 182.189.48.9     | 182.189.32.0/19     | PK | apnic    | 2010-04-12 | PKTELECOM-AS-PK Pakistan Telecommunication Company Limited, PK
+17557   | 182.189.53.196   | 182.189.32.0/19     | PK | apnic    | 2010-04-12 | PKTELECOM-AS-PK Pakistan Telecommunication Company Limited, PK
+4134    | 182.201.106.7    | 182.200.0.0/13      | CN | apnic    | 2010-04-20 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 182.201.91.153   | 182.200.0.0/13      | CN | apnic    | 2010-04-20 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+10013   | 182.236.56.224   | 182.236.56.0/21     | JP | apnic    | 2010-04-23 | FBDC FreeBit Co.,Ltd., JP
+10013   | 182.236.56.225   | 182.236.56.0/21     | JP | apnic    | 2010-04-23 | FBDC FreeBit Co.,Ltd., JP
+9808    | 183.230.9.232    | 183.230.8.0/23      | CN | apnic    | 2009-11-08 | CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
+4134    | 183.62.57.114    | 183.0.0.0/10        | CN | apnic    | 2009-10-09 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 183.62.57.71     | 183.0.0.0/10        | CN | apnic    | 2009-10-09 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 183.62.57.78     | 183.0.0.0/10        | CN | apnic    | 2009-10-09 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 183.62.57.81     | 183.0.0.0/10        | CN | apnic    | 2009-10-09 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 183.63.47.107    | 183.0.0.0/10        | CN | apnic    | 2009-10-09 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 183.63.47.204    | 183.0.0.0/10        | CN | apnic    | 2009-10-09 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 183.63.47.29     | 183.0.0.0/10        | CN | apnic    | 2009-10-09 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 183.63.47.36     | 183.0.0.0/10        | CN | apnic    | 2009-10-09 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 183.63.47.38     | 183.0.0.0/10        | CN | apnic    | 2009-10-09 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 183.63.47.43     | 183.0.0.0/10        | CN | apnic    | 2009-10-09 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 183.63.47.5      | 183.0.0.0/10        | CN | apnic    | 2009-10-09 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 183.63.47.54     | 183.0.0.0/10        | CN | apnic    | 2009-10-09 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 183.63.47.64     | 183.0.0.0/10        | CN | apnic    | 2009-10-09 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 183.63.47.85     | 183.0.0.0/10        | CN | apnic    | 2009-10-09 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+27651   | 186.10.29.201    | 186.10.29.0/24      | CL | lacnic   | 2009-04-07 | ENTEL CHILE S.A., CL
+7303    | 186.137.180.24   | 186.136.0.0/15      | AR | lacnic   | 2009-04-17 | Telecom Argentina S.A., AR
+7303    | 186.153.10.74    | 186.153.0.0/16      | AR | lacnic   | 2010-05-24 | Telecom Argentina S.A., AR
+10429   | 186.201.215.203  | 186.200.0.0/15      | BR | lacnic   | 2010-04-15 | TELEFONICA BRASIL S.A, BR
+18881   | 186.212.83.200   | 186.212.64.0/19     | BR | lacnic   | 2010-06-11 | TELEFONICA BRASIL S.A, BR
+18881   | 186.215.126.6    | 186.215.112.0/20    | BR | lacnic   | 2010-06-11 | TELEFONICA BRASIL S.A, BR
+18881   | 186.215.42.254   | 186.215.32.0/20     | BR | lacnic   | 2010-06-11 | TELEFONICA BRASIL S.A, BR
+28006   | 186.46.131.6     | 186.46.128.0/22     | EC | lacnic   | 2011-01-26 | CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP, EC
+27651   | 186.67.90.124    | 186.67.0.0/17       | CL | lacnic   | 2011-05-13 | ENTEL CHILE S.A., CL
+27651   | 186.67.90.125    | 186.67.0.0/17       | CL | lacnic   | 2011-05-13 | ENTEL CHILE S.A., CL
+8048    | 186.91.132.152   | 186.91.128.0/19     | VE | lacnic   | 2009-11-18 | CANTV Servicios, Venezuela, VE
+18881   | 187.115.149.86   | 187.115.144.0/20    | BR | lacnic   | 2009-12-08 | TELEFONICA BRASIL S.A, BR
+8151    | 187.174.223.6    | 187.174.192.0/19    | MX | lacnic   | 2010-03-02 | UNINET, MX
+6503    | 187.176.229.246  | 187.176.228.0/22    | MX | lacnic   | 2010-07-27 | Axtel, S.A.B. de C.V., MX
+6503    | 187.176.229.55   | 187.176.228.0/22    | MX | lacnic   | 2010-07-27 | Axtel, S.A.B. de C.V., MX
+27699   | 187.75.179.116   | 187.74.0.0/15       | BR | lacnic   | 2009-06-29 | TELEFONICA BRASIL S.A, BR
+12389   | 188.16.114.17    | 188.16.64.0/18      | RU | ripencc  | 2009-02-03 | ROSTELECOM-AS, RU
+6830    | 188.167.31.175   | 188.167.0.0/17      | SK | ripencc  | 2009-06-11 | LIBERTYGLOBAL Liberty Global formerly UPC Broadband Holding, aka AORTA, NL
+1136    | 188.200.124.122  | 188.200.0.0/13      | NL | ripencc  | 2009-06-05 | KPN KPN National, NL
+27699   | 189.111.213.152  | 189.110.0.0/15      | BR | lacnic   | 2008-03-31 | TELEFONICA BRASIL S.A, BR
+3549    | 189.125.148.242  | 189.125.0.0/16      | BR | lacnic   | 2008-06-10 | LVLT-3549, US
+8151    | 189.186.16.45    | 189.186.16.0/22     | MX | lacnic   | 2006-05-12 | UNINET, MX
+8151    | 189.186.29.8     | 189.186.28.0/23     | MX | lacnic   | 2006-05-12 | UNINET, MX
+8151    | 189.186.78.76    | 189.186.72.0/21     | MX | lacnic   | 2006-05-12 | UNINET, MX
+8151    | 189.186.93.219   | 189.186.88.0/21     | MX | lacnic   | 2006-05-12 | UNINET, MX
+18734   | 189.202.206.18   | 189.202.206.0/24    | MX | lacnic   | 2012-05-28 | Operbes, S.A. de C.V., MX
+13591   | 189.204.115.118  | 189.204.0.0/17      | MX | lacnic   | 2007-09-28 | Mexico Red de Telecomunicaciones, S. de R.L. de C.V., MX
+27984   | 190.105.84.223   | 190.105.80.0/20     | AR | lacnic   | 2009-07-28 | Ver Tv S.A., AR
+23243   | 190.106.207.3    | 190.106.207.0/24    | GT | lacnic   | 2012-02-24 | COMCEL GUATEMALA S.A., GT
+23243   | 190.106.207.6    | 190.106.207.0/24    | GT | lacnic   | 2012-02-24 | COMCEL GUATEMALA S.A., GT
+27651   | 190.151.124.150  | 190.151.0.0/17      | CL | lacnic   | 2008-09-16 | ENTEL CHILE S.A., CL
+22927   | 190.174.17.166   | 190.174.0.0/15      | AR | lacnic   | 2007-10-05 | Telefonica de Argentina, AR
+7303    | 190.18.173.54    | 190.18.0.0/15       | AR | lacnic   | 2007-08-03 | Telecom Argentina S.A., AR
+8048    | 190.204.198.173  | 190.204.192.0/19    | VE | lacnic   | 2007-06-13 | CANTV Servicios, Venezuela, VE
+11664   | 190.220.29.26    | 190.220.0.0/17      | AR | lacnic   | 2007-10-30 | Techtel LMDS Comunicaciones Interactivas S.A., AR
+19037   | 190.220.29.26    | 190.220.0.0/17      | AR | lacnic   | 2007-10-30 | AMX Argentina S.A., AR
+7303    | 190.225.13.156   | 190.224.0.0/15      | AR | lacnic   | 2007-10-31 | Telecom Argentina S.A., AR
+3816    | 190.254.16.27    | 190.254.16.0/21     | CO | lacnic   | 2008-04-22 | COLOMBIA TELECOMUNICACIONES S.A. ESP BIC, CO
+27884   | 190.92.67.126    | 190.92.67.0/24      | HN | lacnic   | 2011-11-01 | CABLECOLOR S.A., HN
+NA      | 192.168.0.11     | NA                  |    | other    |            | NA
+15599   | 193.254.249.118  | 193.254.248.0/23    | RU | ripencc  | 2002-10-09 | AVANTEL-NEFTEUGANSK-ASN, RU
+3249    | 194.126.125.46   | 194.126.96.0/19     | EE | ripencc  | 1995-12-19 | ESTPAK, EE
+8376    | 194.165.155.44   | 194.165.155.0/24    | JO | ripencc  | 1996-02-01 | Jordan Data Communications, JO
+702     | 195.217.213.253  | 195.217.0.0/16      | GB | ripencc  | 2000-05-25 | UUNET, US
+8192    | 195.66.195.13    | 195.66.195.0/24     | UA | ripencc  | 1997-04-17 | TMAS Odessa, Ukraine, UA
+3352    | 2.136.217.62     | 2.136.0.0/16        | ES | ripencc  | 2010-11-05 | TELEFONICA_DE_ESPANA, ES
+26615   | 200.157.248.213  | 200.157.248.0/22    | BR | lacnic   | 2002-01-21 | TIM SA, BR
+10429   | 200.168.182.42   | 200.168.160.0/19    | BR | lacnic   | 2003-08-26 | TELEFONICA BRASIL S.A, BR
+4230    | 200.174.141.65   | 200.174.0.0/16      | BR | lacnic   | 2000-10-09 | CLARO S.A., BR
+8167    | 200.203.125.125  | 200.203.64.0/18     | BR | lacnic   | 2002-06-18 | V tal, BR
+4230    | 200.210.2.162    | 200.210.0.0/16      | BR | lacnic   | 1999-11-17 | CLARO S.A., BR
+7303    | 200.32.4.10      | 200.32.0.0/20       | AR | lacnic   | 1995-09-20 | Telecom Argentina S.A., AR
+13489   | 200.35.35.164    | 200.35.32.0/19      | CO | lacnic   | 2004-11-29 | UNE EPM TELECOMUNICACIONES S.A., CO
+13489   | 200.35.51.126    | 200.35.32.0/19      | CO | lacnic   | 2006-03-17 | UNE EPM TELECOMUNICACIONES S.A., CO
+19373   | 200.57.178.53    | 200.57.176.0/21     | MX | lacnic   | 2007-11-14 | Triara.com S.A. de C.V., MX
+16814   | 200.69.205.233   | 200.69.205.0/24     | AR | lacnic   | 2001-06-08 | NSS S.A., AR
+28048   | 200.91.37.44     | 200.91.36.0/22      | AR | lacnic   | 2008-12-09 | Internet Para Todos - Gobierno de La Rioja, AR
+8151    | 201.144.61.130   | 201.144.32.0/19     | MX | lacnic   | 2005-01-12 | UNINET, MX
+8151    | 201.144.61.132   | 201.144.32.0/19     | MX | lacnic   | 2005-01-12 | UNINET, MX
+8151    | 201.155.199.158  | 201.155.199.0/24    | MX | lacnic   | 2005-04-01 | UNINET, MX
+13999   | 201.164.97.112   | 201.164.96.0/22     | MX | lacnic   | 2005-12-19 | Mega Cable, S.A. de C.V., MX
+8048    | 201.208.7.219    | 201.208.0.0/19      | VE | lacnic   | 2005-08-09 | CANTV Servicios, Venezuela, VE
+27866   | 201.217.61.94    | 201.217.61.0/24     | PY | lacnic   | 2005-12-15 | COMPANIA PARAGUAYA DE COMUNICACIONES S.A. COPACO S.A., PY
+19429   | 201.245.223.249  | 201.245.216.0/21    | CO | lacnic   | 2004-08-06 | ETB - Colombia, CO
+27699   | 201.27.14.179    | 201.27.0.0/17       | BR | lacnic   | 2005-05-03 | TELEFONICA BRASIL S.A, BR
+4538    | 202.113.68.250   | 202.113.64.0/20     | CN | apnic    | 1995-09-21 | ERX-CERNET-BKB China Education and Research Network Center, CN
+4538    | 202.115.117.195  | 202.115.112.0/20    | CN | apnic    | 1995-09-21 | ERX-CERNET-BKB China Education and Research Network Center, CN
+4538    | 202.115.120.253  | 202.115.112.0/20    | CN | apnic    | 1995-09-21 | ERX-CERNET-BKB China Education and Research Network Center, CN
+4538    | 202.117.122.28   | 202.117.112.0/20    | CN | apnic    | 1995-09-21 | ERX-CERNET-BKB China Education and Research Network Center, CN
+4812    | 202.136.209.109  | 202.136.208.0/22    | CN | apnic    | 2005-04-19 | CHINANET-SH-AP China Telecom Group, CN
+17621   | 202.136.209.109  | 202.136.208.0/22    | CN | apnic    | 2005-04-19 | CNCGROUP-SH China Unicom Shanghai network, CN
+17826   | 202.149.67.101   | 202.149.66.0/23     | ID | apnic    | 2000-03-24 | SATATANET-ID Jl. Raya Pasar Minggu no 99D, ID
+4538    | 202.197.127.206  | 202.197.112.0/20    | CN | apnic    | 1996-01-30 | ERX-CERNET-BKB China Education and Research Network Center, CN
+4538    | 202.207.212.6    | 202.200.0.0/13      | CN | apnic    | 1996-06-04 | ERX-CERNET-BKB China Education and Research Network Center, CN
+4538    | 202.38.232.199   | 202.38.224.0/19     | CN | apnic    | 1994-09-08 | ERX-CERNET-BKB China Education and Research Network Center, CN
+9293    | 202.67.197.180   | 202.67.128.0/17     | HK | apnic    | 1998-11-20 | HKNET-VIPNET NTT Com Asia Limited, HK
+17698   | 202.86.246.177   | 202.86.240.0/21     | JP | apnic    | 2005-01-31 | CCNET-NET COMMUNITY NETWORK CENTER INCORPORATED., JP
+17917   | 203.134.203.24   | 203.134.200.0/22    | IN | apnic    | 2005-05-18 | QTLTELECOM-AS-AP Quadrant Televentures Limited, IN
+9381    | 203.174.60.115   | 203.174.60.0/22     | HK | apnic    | 2005-10-27 | HKBNES-AS-AP HKBN Enterprise Solutions HK Limited, HK
+38001   | 203.174.86.203   | 203.174.86.0/24     | SG | apnic    | 2006-04-26 | NEWMEDIAEXPRESS-AS-AP NewMedia Express Pte Ltd, SG
+17665   | 203.192.195.2    | 203.192.195.0/24    | IN | apnic    | 2001-02-02 | ONEBROADBAND ONEOTT INTERTAINMENT LIMITED, IN
+40628   | 204.87.65.14     | 204.87.64.0/18      | US | arin     | 1994-11-15 | OKLAHOMA-OMES, US
+14618   | 204.90.92.23     | 204.90.92.0/24      | US | arin     | 1995-02-08 | AMAZON-AES, US
+22933   | 205.214.195.128  | 205.214.195.0/24    | BB | arin     | 1995-04-24 | TCIGATEWAY, TC
+5645    | 206.248.190.29   | 206.248.128.0/18    | CA | arin     | 2005-03-08 | TEKSAVVY, CA
+3549    | 208.50.117.242   | 208.50.0.0/17       | US | arin     | 1999-07-29 | LVLT-3549, US
+33164   | 208.89.129.137   | 208.89.129.0/24     | CA | arin     | 2008-04-22 | AS-IRISTEL, CA
+7482    | 210.201.248.69   | 210.201.192.0/18    | TW | apnic    | 2001-03-08 | APOL-AS Asia Pacific On-line Service Inc., TW
+3462    | 210.242.49.45    | 210.242.0.0/16      | TW | apnic    | 1999-03-17 | HINET Data Communication Business Group, TW
+4538    | 210.40.132.140   | 210.40.128.0/20     | CN | apnic    | 1997-03-12 | ERX-CERNET-BKB China Education and Research Network Center, CN
+4538    | 210.44.95.252    | 210.44.80.0/20      | CN | apnic    | 1997-03-12 | ERX-CERNET-BKB China Education and Research Network Center, CN
+9808    | 211.137.137.232  | 211.137.128.0/20    | CN | apnic    | 2000-08-18 | CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
+56044   | 211.140.199.242  | 211.140.198.0/23    | CN | apnic    | 2000-08-18 | CMNET-AS-LIAONING China Mobile communications corporation, CN
+56047   | 211.142.219.50   | 211.142.219.0/24    | CN | apnic    | 2001-11-06 | CMNET-HUNAN-AP China Mobile communications corporation, CN
+56047   | 211.142.219.51   | 211.142.219.0/24    | CN | apnic    | 2001-11-06 | CMNET-HUNAN-AP China Mobile communications corporation, CN
+56047   | 211.142.219.52   | 211.142.219.0/24    | CN | apnic    | 2001-11-06 | CMNET-HUNAN-AP China Mobile communications corporation, CN
+56047   | 211.143.10.93    | 211.143.10.0/23     | CN | apnic    | 2001-11-06 | CMNET-HUNAN-AP China Mobile communications corporation, CN
+4663    | 211.240.105.68   | 211.240.105.0/24    | KR | apnic    | 2000-09-08 | ELIMNET-AS-KR ELIMNET, INC., KR
+4663    | 211.240.127.142  | 211.240.0.0/17      | KR | apnic    | 2000-09-08 | ELIMNET-AS-KR ELIMNET, INC., KR
+3462    | 211.72.221.5     | 211.72.0.0/16       | TW | apnic    | 1999-11-23 | HINET Data Communication Business Group, TW
+4538    | 211.81.31.53     | 211.81.24.0/21      | CN | apnic    | 2001-02-14 | ERX-CERNET-BKB China Education and Research Network Center, CN
+4538    | 211.81.31.54     | 211.81.24.0/21      | CN | apnic    | 2001-02-14 | ERX-CERNET-BKB China Education and Research Network Center, CN
+12389   | 212.106.38.168   | 212.106.38.0/24     | RU | ripencc  | 2008-05-23 | ROSTELECOM-AS, RU
+12389   | 212.106.38.9     | 212.106.38.0/24     | RU | ripencc  | 2008-05-23 | ROSTELECOM-AS, RU
+12389   | 212.106.56.244   | 212.106.56.0/24     | RU | ripencc  | 2008-05-23 | ROSTELECOM-AS, RU
+12389   | 212.106.56.89    | 212.106.56.0/24     | RU | ripencc  | 2008-05-23 | ROSTELECOM-AS, RU
+12389   | 212.106.61.134   | 212.106.61.0/24     | RU | ripencc  | 2008-05-23 | ROSTELECOM-AS, RU
+12389   | 212.106.62.206   | 212.106.62.0/24     | RU | ripencc  | 2008-05-23 | ROSTELECOM-AS, RU
+12389   | 212.106.62.34    | 212.106.62.0/24     | RU | ripencc  | 2008-05-23 | ROSTELECOM-AS, RU
+NA      | 212.38.134.76    | NA                  | SA | ripencc  | 1998-05-11 | NA
+2914    | 213.164.100.170  | 213.164.96.0/20     | LT | ripencc  | 2002-10-23 | NTT-LTD-2914, US
+NA      | 213.191.20.14    | NA                  | RU | ripencc  | 2008-06-17 | NA
+NA      | 213.191.21.210   | NA                  | RU | ripencc  | 2008-06-17 | NA
+NA      | 213.191.21.49    | NA                  | RU | ripencc  | 2008-06-17 | NA
+NA      | 213.191.21.84    | NA                  | RU | ripencc  | 2008-06-17 | NA
+NA      | 213.191.25.183   | NA                  | RU | ripencc  | 2008-06-17 | NA
+12779   | 213.212.132.14   | 213.212.128.0/18    | IT | ripencc  | 2000-04-12 | ITGATE, IT
+8359    | 213.87.209.19    | 213.87.208.0/23     | RU | ripencc  | 2000-04-10 | MTS, RU
+3352    | 213.98.90.37     | 213.98.0.0/16       | ES | ripencc  | 2000-05-17 | TELEFONICA_DE_ESPANA, ES
+10996   | 216.239.91.32    | 216.239.64.0/19     | CA | arin     | 2000-11-22 | CONCORDE, CA
+NA      | 217.114.231.233  | NA                  | RU | ripencc  | 2004-08-09 | NA
+30900   | 217.115.113.21   | 217.115.112.0/20    | IE | ripencc  | 2003-12-24 | WEBWORLD-AS ta Web World Ireland, IE
+24852   | 217.147.37.243   | 217.147.36.0/23     | LT | ripencc  | 2001-03-01 | VINITA, LT
+12912   | 217.153.162.81   | 217.153.0.0/16      | PL | ripencc  | 2002-12-16 | TM, PL
+2856    | 217.46.191.218   | 217.32.0.0/12       | GB | ripencc  | 2000-09-20 | BT-UK-AS BTnet UK Regional network, GB
+3462    | 218.161.10.108   | 218.161.0.0/17      | TW | apnic    | 2001-10-09 | HINET Data Communication Business Group, TW
+9808    | 218.207.161.166  | 218.207.160.0/21    | CN | apnic    | 2003-09-09 | CHINAMOBILE-CN China Mobile Communications Group Co., Ltd., CN
+9812    | 218.242.5.2      | 218.242.0.0/16      | CN | apnic    | 2001-11-30 | CNNIC-CN-COLNET Oriental Cable Network Co., Ltd., CN
+9812    | 218.242.5.5      | 218.242.0.0/16      | CN | apnic    | 2001-11-30 | CNNIC-CN-COLNET Oriental Cable Network Co., Ltd., CN
+9416    | 219.70.23.210    | 219.70.0.0/15       | TW | apnic    | 2003-03-27 | MULTIMEDIA-AS-AP Hoshin Multimedia Center Inc., TW
+4788    | 219.94.93.53     | 219.94.64.0/18      | MY | apnic    | 2002-11-11 | TTSSB-MY TM TECHNOLOGY SERVICES SDN. BHD., MY
+3462    | 220.132.158.137  | 220.132.0.0/16      | TW | apnic    | 2003-06-09 | HINET Data Communication Business Group, TW
+3462    | 220.135.105.245  | 220.135.0.0/16      | TW | apnic    | 2003-06-09 | HINET Data Communication Business Group, TW
+4134    | 220.171.128.143  | 220.171.128.0/18    | CN | apnic    | 2002-10-30 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 220.174.208.134  | 220.174.0.0/16      | CN | apnic    | 2002-10-30 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+56042   | 221.180.19.178   | 221.180.16.0/22     | CN | apnic    | 2003-09-09 | CMNET-SHANXI-AP China Mobile communications corporation, CN
+4134    | 221.232.247.2    | 221.232.0.0/14      | CN | apnic    | 2003-07-15 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+17638   | 221.238.193.9    | 221.238.192.0/18    | CN | apnic    | 2003-09-30 | CHINATELECOM-TJ-AS-AP ASN for TIANJIN Provincial Net of CT, CN
+7713    | 222.124.202.162  | 222.124.202.0/24    | ID | apnic    | 2004-01-07 | TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
+4538    | 222.31.208.163   | 222.31.208.0/20     | CN | apnic    | 2003-11-13 | ERX-CERNET-BKB China Education and Research Network Center, CN
+NA      | 222.33.61.29     | NA                  | CN | apnic    | 2003-09-02 | NA
+NA      | 222.37.38.220    | NA                  | CN | apnic    | 2003-09-02 | NA
+NA      | 222.37.48.152    | NA                  | CN | apnic    | 2003-09-02 | NA
+NA      | 222.56.36.117    | NA                  | CN | apnic    | 2003-09-02 | NA
+NA      | 222.57.24.110    | NA                  | CN | apnic    | 2003-09-02 | NA
+NA      | 222.57.27.234    | NA                  | CN | apnic    | 2003-09-02 | NA
+NA      | 222.57.29.41     | NA                  | CN | apnic    | 2003-09-02 | NA
+4812    | 222.66.79.115    | 222.66.0.0/16       | CN | apnic    | 2003-10-24 | CHINANET-SH-AP China Telecom Group, CN
+4812    | 222.72.172.157   | 222.72.0.0/16       | CN | apnic    | 2003-10-24 | CHINANET-SH-AP China Telecom Group, CN
+4812    | 222.72.173.125   | 222.72.0.0/16       | CN | apnic    | 2003-10-24 | CHINANET-SH-AP China Telecom Group, CN
+4812    | 222.72.173.132   | 222.72.0.0/16       | CN | apnic    | 2003-10-24 | CHINANET-SH-AP China Telecom Group, CN
+4812    | 222.72.173.142   | 222.72.0.0/16       | CN | apnic    | 2003-10-24 | CHINANET-SH-AP China Telecom Group, CN
+4812    | 222.72.173.226   | 222.72.0.0/16       | CN | apnic    | 2003-10-24 | CHINANET-SH-AP China Telecom Group, CN
+4134    | 222.82.73.5      | 222.82.0.0/16       | CN | apnic    | 2003-10-27 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 222.82.75.154    | 222.82.0.0/16       | CN | apnic    | 2003-10-27 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 222.82.83.127    | 222.82.0.0/16       | CN | apnic    | 2003-10-27 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 222.82.95.144    | 222.82.0.0/16       | CN | apnic    | 2003-10-27 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+19108   | 24.121.213.135   | 24.121.128.0/17     | US | arin     | 2001-09-20 | SUDDENLINK-COMMUNICATIONS, US
+7922    | 24.129.34.103    | 24.129.0.0/17       | US | arin     | 1996-07-19 | COMCAST-7922, US
+6128    | 24.187.72.100    | 24.184.0.0/14       | US | arin     | 2000-12-12 | CABLE-NET-1, US
+14155   | 24.225.21.149    | 24.225.0.0/19       | US | arin     | 1997-03-31 | RURAL-TELEPHONE-SVCCO, US
+6128    | 24.89.171.2      | 24.89.128.0/18      | US | arin     | 2007-08-06 | CABLE-NET-1, US
+4134    | 27.16.200.13     | 27.16.0.0/12        | CN | apnic    | 2010-03-18 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 27.16.200.85     | 27.16.0.0/12        | CN | apnic    | 2010-03-18 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 27.184.13.47     | 27.184.0.0/13       | CN | apnic    | 2010-04-14 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 27.184.14.154    | 27.184.0.0/13       | CN | apnic    | 2010-04-14 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+137125  | 27.48.137.227    | 27.48.136.0/22      | IN | apnic    | 2010-03-11 | NETSAT-AS Netsat Communications Private Limited, IN
+12389   | 31.172.197.145   | 31.172.197.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.197.178   | 31.172.197.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.199.126   | 31.172.199.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.199.16    | 31.172.199.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.199.192   | 31.172.199.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.199.219   | 31.172.199.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.199.221   | 31.172.199.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.202.103   | 31.172.202.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.202.209   | 31.172.202.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.202.217   | 31.172.202.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.202.234   | 31.172.202.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.202.25    | 31.172.202.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.202.70    | 31.172.202.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.202.82    | 31.172.202.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.202.93    | 31.172.202.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.206.199   | 31.172.206.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.208.211   | 31.172.208.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.212.72    | 31.172.212.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.215.121   | 31.172.215.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.215.196   | 31.172.215.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.215.79    | 31.172.215.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.219.172   | 31.172.219.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.223.242   | 31.172.223.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.223.47    | 31.172.223.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+12389   | 31.172.223.58    | 31.172.223.0/24     | RU | ripencc  | 2011-04-05 | ROSTELECOM-AS, RU
+3269    | 31.197.134.66    | 31.196.0.0/15       | IT | ripencc  | 2011-04-21 | ASN-IBSNAZ, IT
+3462    | 36.235.97.194    | 36.235.0.0/16       | TW | apnic    | 2011-01-20 | HINET Data Communication Business Group, TW
+3462    | 36.235.98.162    | 36.235.0.0/16       | TW | apnic    | 2011-01-20 | HINET Data Communication Business Group, TW
+1257    | 37.2.144.31      | 37.2.0.0/15         | SE | ripencc  | 2011-12-08 | TELE2, EU
+16276   | 37.59.77.10      | 37.59.0.0/16        | FR | ripencc  | 2012-01-16 | OVH, FR
+24863   | 41.131.176.202   | 41.131.176.0/22     | EG | afrinic  | 2009-02-09 | LINKdotNET-AS, EG
+37084   | 41.188.185.226   | 41.188.160.0/19     | TZ | afrinic  | 2009-01-08 | simbanet-tz, TZ
+30993   | 41.205.117.234   | 41.205.117.0/24     | EG | afrinic  | 2006-10-13 | Egypt-Centers, EG
+4134    | 42.91.196.162    | 42.90.0.0/15        | CN | apnic    | 2011-02-09 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 42.91.8.35       | 42.90.0.0/15        | CN | apnic    | 2011-02-09 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+12578   | 46.109.45.151    | 46.109.0.0/16       | LV | ripencc  | 2010-07-21 | APOLLO-AS Latvia, LV
+12578   | 46.109.81.225    | 46.109.0.0/16       | LV | ripencc  | 2010-07-21 | APOLLO-AS Latvia, LV
+12578   | 46.109.86.169    | 46.109.0.0/16       | LV | ripencc  | 2010-07-21 | APOLLO-AS Latvia, LV
+15895   | 46.118.19.158    | 46.118.0.0/15       | UA | ripencc  | 2010-05-17 | KSNET-AS, UA
+15895   | 46.211.206.155   | 46.211.0.0/16       | UA | ripencc  | 2010-12-17 | KSNET-AS, UA
+39824   | 46.36.130.95     | 46.36.130.0/24      | KZ | ripencc  | 2010-10-27 | ALMANET-AS, KZ
+NA      | 49.205.14.15     | NA                  | IN | apnic    | 2010-12-06 | NA
+24309   | 49.205.32.148    | 49.205.32.0/21      | IN | apnic    | 2010-12-06 | CABLELITE-AS-AP Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA, IN
+9371    | 49.212.209.143   | 49.212.0.0/16       | JP | apnic    | 2010-12-07 | SAKURA-C SAKURA Internet Inc., JP
+17622   | 58.248.62.29     | 58.248.32.0/19      | CN | apnic    | 2005-06-17 | CNCGROUP-GZ China Unicom Guangzhou network, CN
+4812    | 58.39.199.1      | 58.36.0.0/14        | CN | apnic    | 2005-01-28 | CHINANET-SH-AP China Telecom Group, CN
+4812    | 58.39.199.22     | 58.36.0.0/14        | CN | apnic    | 2005-01-28 | CHINANET-SH-AP China Telecom Group, CN
+17444   | 58.64.163.150    | 58.64.163.0/24      | HK | apnic    | 2006-09-19 | HKBNESL-AS-AP HKBN Enterprise Solutions Limited, HK
+3462    | 59.124.136.74    | 59.124.0.0/16       | TW | apnic    | 2005-10-18 | HINET Data Communication Business Group, TW
+4134    | 59.175.226.20    | 59.172.0.0/14       | CN | apnic    | 2007-04-20 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 60.160.234.79    | 60.160.0.0/15       | CN | apnic    | 2004-06-21 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 60.165.85.123    | 60.164.0.0/15       | CN | apnic    | 2004-08-12 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 60.165.89.155    | 60.164.0.0/15       | CN | apnic    | 2004-08-12 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+3462    | 60.248.61.74     | 60.248.0.0/16       | TW | apnic    | 2004-10-29 | HINET Data Communication Business Group, TW
+3462    | 60.249.200.106   | 60.249.0.0/16       | TW | apnic    | 2006-07-31 | HINET Data Communication Business Group, TW
+3462    | 60.249.44.39     | 60.249.0.0/16       | TW | apnic    | 2006-07-31 | HINET Data Communication Business Group, TW
+3462    | 60.250.134.247   | 60.250.0.0/16       | TW | apnic    | 2006-07-31 | HINET Data Communication Business Group, TW
+17820   | 61.12.7.238      | 61.12.4.0/22        | IN | apnic    | 2004-04-15 | DIL-AP DIRECT INTERNET LTD., IN
+4134    | 61.128.167.2     | 61.128.128.0/17     | CN | apnic    | 1999-05-27 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4812    | 61.129.87.56     | 61.129.0.0/17       | CN | apnic    | 1999-05-27 | CHINANET-SH-AP China Telecom Group, CN
+140061  | 61.133.226.96    | 61.133.226.0/23     | CN | apnic    | 1999-06-24 | CHINANET-QINGHAI-AS-AP Qinghai Telecom, CN
+4134    | 61.175.194.151   | 61.174.0.0/15       | CN | apnic    | 2000-11-16 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 61.178.73.219    | 61.178.0.0/16       | CN | apnic    | 2000-11-16 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 61.178.81.19     | 61.178.0.0/16       | CN | apnic    | 2000-11-16 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 61.185.130.82    | 61.185.0.0/16       | CN | apnic    | 2000-11-16 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 61.185.238.233   | 61.185.0.0/16       | CN | apnic    | 2000-11-16 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+4134    | 61.186.162.67    | 61.186.128.0/17     | CN | apnic    | 2000-11-16 | CHINANET-BACKBONE No.31,Jin-rong Street, CN
+3462    | 61.219.62.181    | 61.219.0.0/16       | TW | apnic    | 2001-01-17 | HINET Data Communication Business Group, TW
+3462    | 61.219.62.183    | 61.219.0.0/16       | TW | apnic    | 2001-01-17 | HINET Data Communication Business Group, TW
+3462    | 61.219.82.85     | 61.219.0.0/16       | TW | apnic    | 2001-01-17 | HINET Data Communication Business Group, TW
+3462    | 61.220.124.106   | 61.220.0.0/16       | TW | apnic    | 2001-05-15 | HINET Data Communication Business Group, TW
+3462    | 61.227.20.233    | 61.227.0.0/16       | TW | apnic    | 2001-05-15 | HINET Data Communication Business Group, TW
+3462    | 61.227.66.211    | 61.227.0.0/16       | TW | apnic    | 2001-05-15 | HINET Data Communication Business Group, TW
+7713    | 61.94.72.52      | 61.94.72.0/22       | ID | apnic    | 2002-01-11 | TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
+15468   | 62.148.153.142   | 62.148.144.0/20     | RU | ripencc  | 2000-06-26 | KLGELECS-AS PJSC Rostelecom Kaluga Elecs NOC, RU
+31034   | 62.149.195.10    | 62.149.192.0/18     | IT | ripencc  | 2001-04-27 | ARUBA-ASN, IT
+11320   | 64.22.218.92     | 64.22.208.0/20      | US | arin     | 2001-03-28 | LIGHTEDGE-AS-02, US
+2828    | 65.104.31.146    | 65.104.0.0/14       | US | arin     | 2001-01-30 | XO-AS15, US
+209     | 65.173.90.113    | 65.173.90.0/24      | US | arin     | 2000-09-19 | CENTURYLINK-US-LEGACY-QWEST, US
+701     | 66.14.180.16     | 66.12.0.0/14        | US | arin     | 2000-08-31 | UUNET, US
+NA      | 66.18.131.204    | NA                  | US | arin     | 2002-11-13 | NA
+2828    | 67.104.19.200    | 67.104.0.0/13       | US | arin     | 2001-08-10 | XO-AS15, US
+2828    | 67.91.114.162    | 67.88.0.0/13        | US | arin     | 2001-09-26 | XO-AS15, US
+7922    | 71.197.47.174    | 71.192.0.0/12       | US | arin     | 2005-07-27 | COMCAST-7922, US
+7922    | 71.203.46.146    | 71.192.0.0/12       | US | arin     | 2005-07-27 | COMCAST-7922, US
+209     | 71.215.39.248    | 71.215.0.0/16       | US | arin     | 2005-05-06 | CENTURYLINK-US-LEGACY-QWEST, US
+209     | 71.36.142.225    | 71.36.128.0/19      | US | arin     | 2004-12-17 | CENTURYLINK-US-LEGACY-QWEST, US
+16532   | 72.10.144.234    | 72.10.128.0/19      | CA | arin     | 2004-10-27 | ASB2B2C, CA
+16276   | 72.251.11.170    | 72.251.0.0/17       | CA | arin     | 2023-03-13 | OVH, FR
+NA      | 72.91.193.154    | NA                  | US | arin     | 2005-06-24 | NA
+209     | 75.163.106.47    | 75.163.64.0/18      | US | arin     | 2006-10-24 | CENTURYLINK-US-LEGACY-QWEST, US
+7922    | 75.75.186.196    | 75.75.128.0/18      | US | arin     | 2006-07-07 | COMCAST-7922, US
+7922    | 76.106.239.14    | 76.96.0.0/11        | US | arin     | 2007-01-02 | COMCAST-7922, US
+15557   | 77.193.121.209   | 77.192.0.0/12       | FR | ripencc  | 2006-11-30 | LDCOMNET --- I3Dnet ---, FR
+NA      | 78.128.100.57    | NA                  | BG | ripencc  | 2007-04-05 | NA
+12389   | 78.36.60.133     | 78.36.32.0/19       | RU | ripencc  | 2007-03-16 | ROSTELECOM-AS, RU
+12389   | 78.36.60.137     | 78.36.32.0/19       | RU | ripencc  | 2007-03-16 | ROSTELECOM-AS, RU
+3352    | 80.38.30.54      | 80.38.0.0/16        | ES | ripencc  | 2001-11-12 | TELEFONICA_DE_ESPANA, ES
+21487   | 80.73.85.252     | 80.73.80.0/20       | RU | ripencc  | 2002-05-28 | PJSC Rostelecom. Yakutsk branch, RU
+2856    | 81.143.20.29     | 81.128.0.0/12       | GB | ripencc  | 2002-07-25 | BT-UK-AS BTnet UK Regional network, GB
+2856    | 81.147.114.67    | 81.128.0.0/11       | GB | ripencc  | 2002-07-25 | BT-UK-AS BTnet UK Regional network, GB
+2856    | 81.155.195.87    | 81.128.0.0/11       | GB | ripencc  | 2002-07-25 | BT-UK-AS BTnet UK Regional network, GB
+8342    | 81.176.67.100    | 81.176.0.0/16       | RU | ripencc  | 2003-01-15 | RTCOMM-AS, RU
+3243    | 81.193.26.209    | 81.193.0.0/16       | PT | ripencc  | 2002-08-06 | MEO-RESIDENCIAL, PT
+12578   | 81.198.238.80    | 81.198.0.0/16       | LV | ripencc  | 2002-10-02 | APOLLO-AS Latvia, LV
+29124   | 81.200.5.52      | 81.200.5.0/24       | RU | ripencc  | 2002-09-23 | ISKRATELECOM-AS SEVEN-SKY, RU
+39273   | 81.22.17.6       | 81.22.17.0/24       | BH | ripencc  | 2006-01-18 | KALAAM-TELECOM, BH
+3292    | 81.31.95.102     | 81.31.80.0/20       | DK | ripencc  | 2006-04-06 | TDC TDC AS, DK
+3269    | 82.107.0.147     | 82.107.0.0/16       | IT | ripencc  | 2003-10-22 | ASN-IBSNAZ, IT
+3215    | 82.127.163.223   | 82.127.0.0/16       | FR | ripencc  | 2003-10-21 | France Telecom - Orange, FR
+28890   | 83.167.28.238    | 83.167.16.0/20      | RU | ripencc  | 2004-06-14 | INSYS-AS INSYS ISP, RU
+3215    | 83.202.108.68    | 83.202.0.0/16       | FR | ripencc  | 2003-12-12 | France Telecom - Orange, FR
+15525   | 83.240.239.74    | 83.240.128.0/17     | PT | ripencc  | 2004-03-17 | MEO-EMPRESAS, PT
+3352    | 83.33.166.118    | 83.33.0.0/16        | ES | ripencc  | 2003-12-02 | TELEFONICA_DE_ESPANA, ES
+24852   | 84.55.58.74      | 84.55.58.0/23       | LT | ripencc  | 2004-11-15 | VINITA, LT
+34352   | 85.94.56.35      | 85.94.32.0/19       | RU | ripencc  | 2004-12-21 | MCN-AS, RU
+34352   | 85.94.56.37      | 85.94.32.0/19       | RU | ripencc  | 2004-12-21 | MCN-AS, RU
+15557   | 86.69.138.109    | 86.64.0.0/12        | FR | ripencc  | 2005-03-02 | LDCOMNET --- I3Dnet ---, FR
+15557   | 86.69.138.133    | 86.64.0.0/12        | FR | ripencc  | 2005-03-02 | LDCOMNET --- I3Dnet ---, FR
+15557   | 86.69.138.211    | 86.64.0.0/12        | FR | ripencc  | 2005-03-02 | LDCOMNET --- I3Dnet ---, FR
+3320    | 87.139.33.174    | 87.128.0.0/10       | DE | ripencc  | 2005-05-03 | DTAG Internet service provider operations, DE
+12297   | 87.241.162.230   | 87.241.160.0/20     | AM | ripencc  | 2005-07-07 | TELECOM-ARMENIA Telecom Armenia AS, AM
+8764    | 88.118.151.113   | 88.118.148.0/22     | LT | ripencc  | 2005-10-24 | TELIA-LIETUVA, LT
+2860    | 88.210.67.58     | 88.210.64.0/18      | PT | ripencc  | 2005-11-25 | NOS_COMUNICACOES, PT
+9121    | 88.248.134.171   | 88.248.128.0/17     | TR | ripencc  | 2005-10-27 | TTNET, TR
+3209    | 88.79.162.29     | 88.64.0.0/12        | DE | ripencc  | 2005-08-15 | VODANET International IP-Backbone of Vodafone, DE
+20597   | 89.112.102.124   | 89.112.0.0/17       | RU | ripencc  | 2006-04-10 | ELTEL-AS, RU
+20597   | 89.112.126.48    | 89.112.0.0/17       | RU | ripencc  | 2006-04-10 | ELTEL-AS, RU
+20597   | 89.112.39.170    | 89.112.0.0/17       | RU | ripencc  | 2006-04-10 | ELTEL-AS, RU
+20597   | 89.112.48.87     | 89.112.0.0/17       | RU | ripencc  | 2006-04-10 | ELTEL-AS, RU
+20597   | 89.112.61.12     | 89.112.0.0/17       | RU | ripencc  | 2006-04-10 | ELTEL-AS, RU
+NA      | 89.207.37.60     | NA                  | RU | ripencc  | 2009-05-20 | NA
+3301    | 90.232.139.129   | 90.224.0.0/12       | SE | ripencc  | 2006-05-30 | TELIANET-SWEDEN Telia Company, SE
+3215    | 90.24.233.209    | 90.24.128.0/17      | FR | ripencc  | 2006-03-02 | France Telecom - Orange, FR
+12578   | 91.105.53.227    | 91.105.0.0/17       | LV | ripencc  | 2012-06-19 | APOLLO-AS Latvia, LV
+12578   | 91.105.62.32     | 91.105.0.0/17       | LV | ripencc  | 2012-06-19 | APOLLO-AS Latvia, LV
+174     | 91.198.26.74     | 91.198.26.0/24      | BE | ripencc  | 2007-06-28 | COGENT-174, US
+47531   | 91.204.176.68    | 91.204.176.0/22     | RU | ripencc  | 2008-06-24 | GORPTUS-AS, RU
+47531   | 91.204.179.237   | 91.204.176.0/22     | RU | ripencc  | 2008-06-24 | GORPTUS-AS, RU
+47531   | 91.243.239.235   | 91.243.224.0/19     | RU | ripencc  | 2012-08-07 | GORPTUS-AS, RU
+6703    | 93.178.254.25    | 93.178.252.0/22     | UA | ripencc  | 2008-04-03 | ALKAR-AS, UA
+21473   | 93.190.254.103   | 93.190.248.0/21     | DE | ripencc  | 2008-05-26 | PFALZKOM Pfalzkom GmbH, DE
+8402    | 93.81.135.194    | 93.80.0.0/15        | RU | ripencc  | 2008-02-05 | CORBINA-AS OJSC Vimpelcom, RU
+12389   | 94.242.131.81    | 94.242.131.0/24     | RU | ripencc  | 2008-10-21 | ROSTELECOM-AS, RU
+12389   | 94.242.139.112   | 94.242.139.0/24     | RU | ripencc  | 2008-10-21 | ROSTELECOM-AS, RU
+12389   | 94.242.139.191   | 94.242.139.0/24     | RU | ripencc  | 2008-10-21 | ROSTELECOM-AS, RU
+12389   | 94.242.139.90    | 94.242.139.0/24     | RU | ripencc  | 2008-10-21 | ROSTELECOM-AS, RU
+12389   | 94.242.140.175   | 94.242.140.0/24     | RU | ripencc  | 2008-10-21 | ROSTELECOM-AS, RU
+12389   | 94.242.152.137   | 94.242.152.0/24     | RU | ripencc  | 2008-10-21 | ROSTELECOM-AS, RU
+12389   | 94.242.152.19    | 94.242.152.0/24     | RU | ripencc  | 2008-10-21 | ROSTELECOM-AS, RU
+12389   | 94.242.172.178   | 94.242.172.0/24     | RU | ripencc  | 2008-10-21 | ROSTELECOM-AS, RU
+12389   | 94.242.172.53    | 94.242.172.0/24     | RU | ripencc  | 2008-10-21 | ROSTELECOM-AS, RU
+12389   | 94.242.175.37    | 94.242.175.0/24     | RU | ripencc  | 2008-10-21 | ROSTELECOM-AS, RU
+12389   | 94.242.175.52    | 94.242.175.0/24     | RU | ripencc  | 2008-10-21 | ROSTELECOM-AS, RU
+12389   | 94.242.184.179   | 94.242.184.0/24     | RU | ripencc  | 2008-10-21 | ROSTELECOM-AS, RU
+12389   | 94.242.185.176   | 94.242.185.0/24     | RU | ripencc  | 2008-10-21 | ROSTELECOM-AS, RU
+12389   | 94.242.185.184   | 94.242.185.0/24     | RU | ripencc  | 2008-10-21 | ROSTELECOM-AS, RU
+12389   | 94.242.188.136   | 94.242.188.0/24     | RU | ripencc  | 2008-10-21 | ROSTELECOM-AS, RU
+12389   | 94.242.188.138   | 94.242.188.0/24     | RU | ripencc  | 2008-10-21 | ROSTELECOM-AS, RU
+12389   | 94.242.188.204   | 94.242.188.0/24     | RU | ripencc  | 2008-10-21 | ROSTELECOM-AS, RU
+24955   | 94.41.221.108    | 94.41.221.0/24      | RU | ripencc  | 2008-05-21 | UBN-AS, RU
+12389   | 95.107.25.35     | 95.107.25.0/24      | RU | ripencc  | 2008-12-02 | ROSTELECOM-AS, RU
+196739  | 95.215.255.21    | 95.215.252.0/22     | RU | ripencc  | 2009-04-08 | USPEKH-AS, RU
+12578   | 95.68.65.36      | 95.68.0.0/17        | LV | ripencc  | 2008-11-07 | APOLLO-AS Latvia, LV
+12578   | 95.68.70.178     | 95.68.0.0/17        | LV | ripencc  | 2008-11-07 | APOLLO-AS Latvia, LV
+6128    | 96.56.58.27      | 96.56.0.0/15        | US | arin     | 2008-01-08 | CABLE-NET-1, US
+6167    | 97.208.66.54     | 97.128.0.0/9        | US | arin     | 2008-04-14 | CELLCO-PART, US
+22394   | 97.208.66.54     | 97.128.0.0/9        | US | arin     | 2008-04-14 | CELLCO, US
+22773   | 98.189.196.206   | 98.189.0.0/16       | US | arin     | 2007-07-20 | ASN-CXA-ALL-CCI-22773-RDC, US
+7922    | 98.231.8.166     | 98.192.0.0/10       | US | arin     | 2007-04-20 | COMCAST-7922, US
+7922    | 98.237.43.199    | 98.192.0.0/10       | US | arin     | 2007-04-20 | COMCAST-7922, US
+7922    | 98.237.47.62     | 98.192.0.0/10       | US | arin     | 2007-04-20 | COMCAST-7922, US
+7922    | 98.253.112.192   | 98.192.0.0/10       | US | arin     | 2007-04-20 | COMCAST-7922, US
