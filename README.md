@@ -33,8 +33,7 @@ Slammer-Worm-Analysis/
 ├── 2_geolocation/         # IP enrichment and country/netblock stats
 ├── 3_hashes/              # Payload hashing and VirusTotal lookups
 ├── report/                # Full PDF thesis report
-├── README.md              # This file
-└── .gitignore             # (Optional) excludes temp/data files
+└── README.md              # This file
 ```
 
 ---
