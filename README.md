@@ -1,10 +1,6 @@
-
 # Slammer Worm: From Outbreak to Stagnation?
 
-**Bachelor Thesis in Cybersecurity – 2025**  
-*Alexander Danielsen, Noroff University College*
-
-This repository contains all scripts and visualizations developed for my Bachelor project analyzing long-term activity of the SQL Slammer worm using Internet Background Radiation (IBR) data from 2005 to 2024.
+This repository contains all scripts and visualizations developed for my project analyzing long-term activity of the SQL Slammer worm using Internet Background Radiation (IBR) data from 2005 to 2024.
 
 📄 **Full report**: [`Slammer_2025_Report.pdf`](./report/Slammer_2025_Report.pdf)
 
