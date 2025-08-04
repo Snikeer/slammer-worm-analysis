@@ -37,7 +37,7 @@ Slammer-Worm-Analysis/
 ## 🛠️ Tools & Technologies
 
 - **Languages:** Python, Bash
-- **Libraries:** `pandas`, `matplotlib`, `hashlib`, `prettytable`
+- **Libraries:** `pandas`, `matplotlib`, `hashlib`, `prettytable`, `sys`, `os`, `scapy.all`, `datetime`, `subprocess`, `argparse`, `pathlib`, `requests`, `json`
 - **Network tools:** `tcpdump`, `tshark`, `capinfos`, `editcap`, `netcat`
 - **External APIs:** VirusTotal, Team Cymru WHOIS
 
